@@ -1,25 +1,22 @@
 function About({ user }) {
   return (
     <div className="section">
-      <p className="section-title">Hi and Welcome To My Page</p>
+      <p className="section-title">Hello, I'm Iryna</p>
       <div className="about">
         <div className="avatar">
           <img src={user.avatar_url} alt="avatar" className="avatar-img" />
         </div>
         <div className="bio">
           <p>
-            Hello, my name is Alexandru Naumov. I'm a Full Stack Web Developer
-            and recently received my certification following years of passion
-            for technology and being involved in software development on
-            different levels.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quaerat
+            doloremque rem laborum! Eaque facilis cumque aperiam impedit
+            assumenda vitae eum modi repellendus sequi dolore, voluptatem dolor
+            minus voluptates sapiente.
           </p>
           <p>
-            I'm looking forward to this new step in my life and follow a
-            longtime passion in technology. With experience in front end, UX,
-            databases and software and hardware testing I can add value to any
-            team of developers. New acquired skills in JavaScript, NodeJS, React
-            and many others I learned and continue to add to my skill set I feel
-            ready for the upcoming challenges in the new career.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam sint
+            est dignissimos ut! Quae dolore, consectetur ex aut quos amet quod
+            eos beatae ut explicabo incidunt rerum facere, quaerat officia!
           </p>
         </div>
       </div>

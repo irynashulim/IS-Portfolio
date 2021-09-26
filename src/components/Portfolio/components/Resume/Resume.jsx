@@ -3,7 +3,7 @@ function Resume() {
     <div className="section">
       <p className="section-title">Resume</p>
       <a
-        href="https://docs.google.com/document/d/16WC0e2KqADJdDo1EPEcxjUJevBK_849mCoZHAEXXTdQ/edit?usp=sharing"
+        href="https://docs.google.com/document/d/1LcgrSP70zXfvFPVHbV-6OOeSkti3qAlwopW5fX4HJ2A/edit?usp=sharing"
         className="resume"
         target="blank"
       >
@@ -15,8 +15,6 @@ function Resume() {
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>
-          <li>React</li>
-          <li>API</li>
         </ul>
         <ul className="skills">
           <p className="skills-title">Back-end</p>

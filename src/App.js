@@ -1,4 +1,4 @@
-import Portfolio from './componenets/Portfolio'
+import Portfolio from "./components/Portfolio"
 import './App.css';
 
 function App() {
