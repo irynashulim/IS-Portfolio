@@ -1,0 +1,32 @@
+[
+  {
+    "name": "My-Registry",
+    "repo_url": "https://github.com/irynashulim/My-Registry",
+    "live_url": "https://my-registry-2021.herokuapp.com/",
+    "project_image": "https://github.com/hsafiya/My-Registry/raw/main/public/images/screen1.PNG"
+  },
+  {
+    "name": "Budget Tracker",
+    "repo_url": "https://github.com/irynashulim/budget-tracker",
+    "live_url": "https://young-mesa-16567.herokuapp.com/",
+    "project_image": "https://github.com/irynashulim/budget-tracker/raw/main/public/icons/screenshot2.PNG"
+  },
+  {
+    "name": "Tech Blog",
+    "repo_url": "https://github.com/irynashulim/is-tech-blog",
+    "live_url": "https://immense-citadel-93665.herokuapp.com/",
+    "project_image": "https://github.com/irynashulim/is-tech-blog/raw/main/public/images/screenshot-2.JPG"
+  },
+  {
+    "name": "Note Taker",
+    "repo_url": "https://github.com/irynashulim/is-note-taker",
+    "live_url": "https://frozen-island-53814.herokuapp.com/",
+    "project_image": "https://github.com/irynashulim/is-note-taker/raw/main/assets/screenshot.JPG"
+  },
+  {
+    "name": "Life Finder",
+    "repo_url": "https://github.com/irynashulim/is-lifeFinder",
+    "live_url": "https://irynashulim.github.io/is-lifeFinder/",
+    "project_image": "https://github.com/irynashulim/is-lifeFinder/blob/main/assets/images/mockup.png?raw=true"
+  }
+]
