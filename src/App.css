@@ -1,11 +1,12 @@
-:root {
-  --nav-color: rgb(231, 112, 132);
-  --body-color: #262833;
-  --icon-hover: rgba(223, 158, 37, 0.7);
+@import url(https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Raleway&display=swap);
+  :root {
+  --nav-color: rgb(242, 217, 223);
+  --body-color: rgb(248, 247, 245);
+  --icon-hover: rgb(240, 121, 149);
   --dark-hover: rgba(19, 11, 0, 0.815);
   --dark-hover-gh: rgba(63, 37, 2, 0.815);
   --nav-tab-underline: 1px solid red;
-  --resume-link: #f0f0f1;
+  --resume-link: #000000;
 }
 .header {
   display: flex;
@@ -13,13 +14,14 @@
   align-items: center;
   width: 100%;
   background-color: var(--nav-color);
+  font-family: 'Raleway', sans-serif;
 }
 
 #nav-name {
   padding-left: 3rem;
   font-size: 2rem;
   font-weight: 600;
-  color: #f0f0f1;
+  color: #000000;
 }
 .nav {
   display: flex;
@@ -27,7 +29,8 @@
   list-style: none;
   padding-right: 3rem;
   font-weight: 500;
-  color: #f0f0f1;
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
 }
 
 .nav-link {
@@ -71,26 +74,27 @@
   min-height: 80vh;
 }
 .section-title {
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 600;
-  font-style: italic;
-  color: #f0f0f1;
+  color: #000000;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 .about {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  color: #f0f0f1;
+  color: #000000;
   font-size: 1rem;
+  font-family: 'Raleway', sans-serif;
 }
 
 .avatar {
   margin: 2rem;
 }
+
 .avatar-img {
   border-radius: 50%;
-  border: solid 3px rgb(231, 112, 132);
 }
 
 .bio {
@@ -102,7 +106,7 @@
 }
 
 .resume {
-  color: #f36337;
+  color: rgb(246, 115, 146);
   font-weight: 500;
 }
 .resume:hover {
@@ -140,17 +144,17 @@ textarea {
   line-height: 1.5rem;
   border-radius: 5px;
   margin-bottom: 10px;
-  border: 3px solid #f36337;
+  border: 3px solid rgb(236, 183, 195);
 }
 
 .submit-btn {
   font-weight: 700;
   font-size: 1rem;
-  border-radius: 5px;
+  border-radius: 10px;
   width: 10%;
   height: 2rem;
-  background-color: #f36337;
-  color: #f0f0f1;
+  background-color: rgb(242, 217, 223);
+  color: #000000;
 }
 
 .submit-btn:hover {
@@ -173,7 +177,7 @@ textarea {
   width: 300px;
   height: 180px;
   border-radius: 20px;
-  border: 3px solid #f36337;
+  border: 3px solid rgb(242, 217, 223);
   margin: 10px 20px;
   display: flex;
   align-items: center;
@@ -200,9 +204,10 @@ textarea {
 }
 .project-title {
   text-decoration: none;
-  color: #f36337;
+  color: rgb(0, 0, 0);
+  font-family: 'Raleway', sans-serif;
 }
 .card-link {
-  color: #f36337;
+  color: #ec7ea8;
   font-size: 4rem;
 }
